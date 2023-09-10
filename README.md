@@ -15,3 +15,13 @@ Controls:
 - Close the tool: Alt+F4
 
 Extra information for those who like details: Gimbal Lock is solved via quarternions. So take care of your motion sickness if you turn the camera up-/downwards.
+
+![Alt text](/001.png?raw=true)
+---
+![Alt text](/002.png?raw=true)
+---
+![Alt text](/003.png?raw=true)
+---
+![Alt text](/004.png?raw=true)
+---
+![Alt text](/005.png?raw=true)
